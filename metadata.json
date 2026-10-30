@@ -1,0 +1,6 @@
+{
+  "name": "Axis Action Mailer",
+  "description": "Automated action item follow-up email drafts for Axis Connects community engagement meetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
